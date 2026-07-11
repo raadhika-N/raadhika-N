@@ -1,10 +1,16 @@
-# Hello, I'm Radhika Namdeo.
+<h1 align="center">Hi, I'm Radhika Namdeo 👋</h1>
 
-### Backend Engineering • AI Systems • Open Source • Distributed Systems
+<h3 align="center">
+Backend Engineer • AI Systems • Open Source • Distributed Systems
+</h3>
 
+<p align="center">
 Building scalable backend services, AI-powered applications, and reliable software systems.
+</p>
+
 
 ---
+
 
 ## Tech Stack
 
