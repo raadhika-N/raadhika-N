@@ -1,22 +1,46 @@
-# Hi, I'm Radhika
+# Hello, I'm Radhika Namdeo.
 
-IT undergraduate at IIIT Gwalior and a full stack developer.  
-Exploring AI, systems, and scalable software engineering.
+### Backend Engineering • AI Systems • Open Source • Distributed Systems
+
+Building scalable backend services, AI-powered applications, and reliable software systems.
 
 ---
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Languages
+`C` • `C++` • `Python` • `JavaScript` • `Dart`
+
+### Backend
+`Node.js` • `Express.js` • `FastAPI` • `REST APIs`
+
+### AI
+`LangChain` • `RAG` • `Embeddings` • `Vector Search`
+
+### Databases
+`MongoDB` • `PostgreSQL` • `Redis` • `SQLite` • `Firebase`
+
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/radhika-namdeo-a98229314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+
+
+  <a href="https://codeforces.com/profile/raadhika.18" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  
+
+  <a href="https://leetcode.com/u/raadhika18/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
